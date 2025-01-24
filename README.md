@@ -227,3 +227,5 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
     - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [Wrapperr](https://github.com/aunefyren/wrapperr)
     - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept
+- [Zotifiarrr](https://github.com/Xoconoch/zotifarrr)
+    - A Zotify web wrapper that allows to add music directly to a personal music library, intended for music server owners
