@@ -183,6 +183,8 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
     - A Python script that connects Lidarr with Soulseek
 - [StarrScripts](https://github.com/bakerboy448/StarrScripts)
     - Misc scripts for starr related apps
+- [Subsyncarr](https://github.com/johnpc/subsyncarr)
+    - An automated subtitle synchronization tool
 - [SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
     - Automatically request new content based on your recently watched
 - [Syncarr](https://github.com/syncarr/syncarr) ❌
