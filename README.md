@@ -175,14 +175,14 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
     - PVR & episode guide that downloads and manages all your TV shows
 - [SickGear](https://github.com/SickGear/SickGear)
     - The most reliable/stable TV fork of Sick-Beard to fully automate TV enjoyment with innovation
-- [Spotizerr](https://github.com/Xoconoch/spotizerr)
-    - Music downloader which combines the best of two worlds: Spotify's catalog and Deezer's quality (New fork of Zotifiarrr)
 - [Sonarr](https://sonarr.tv/)
     - Smart PVR for newsgroup and bittorrent users
 - [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker)
     - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
 - [Soularr](https://www.soularr.net/)
     - A Python script that connects Lidarr with Soulseek
+- [Spotizerr](https://github.com/Xoconoch/spotizerr)
+    - Music downloader which combines the best of two worlds: Spotify's catalog and Deezer's quality (New fork of Zotifiarrr)
 - [StarrScripts](https://github.com/bakerboy448/StarrScripts)
     - Misc scripts for starr related apps
 - [Subsyncarr](https://github.com/johnpc/subsyncarr)
