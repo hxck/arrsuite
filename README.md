@@ -166,7 +166,7 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
 - [Reiverr](https://github.com/aleksilassila/reiverr)
     - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [Requestrr](https://github.com/darkalfx/requestrr) 🤖
-    - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.
+    - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat
 - [Scraperr](https://github.com/jaypyles/Scraperr)
     - Self-hosted webscraper
 - [Searcharr](https://github.com/toddrob99/searcharr) 🤖
@@ -175,6 +175,8 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
     - PVR & episode guide that downloads and manages all your TV shows
 - [SickGear](https://github.com/SickGear/SickGear)
     - The most reliable/stable TV fork of Sick-Beard to fully automate TV enjoyment with innovation
+- [Spotizerr](https://github.com/Xoconoch/spotizerr)
+    - Music downloader which combines the best of two worlds: Spotify's catalog and Deezer's quality (New fork of Zotifiarrr)
 - [Sonarr](https://sonarr.tv/)
     - Smart PVR for newsgroup and bittorrent users
 - [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker)
@@ -227,5 +229,5 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
     - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [Wrapperr](https://github.com/aunefyren/wrapperr)
     - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept
-- [Zotifiarrr](https://github.com/Xoconoch/zotifarrr)
+- [Zotifiarrr](https://github.com/Xoconoch/zotifarrr) ❌
     - A Zotify web wrapper that allows to add music directly to a personal music library, intended for music server owners
