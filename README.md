@@ -180,7 +180,7 @@ Putting all of your links at your fingertips:
 - [Readarr](https://readarr.com/)
     - Book Manager and Automation (Sonarr for Ebooks)
 - [Recyclarr](https://github.com/recyclarr/recyclarr)
-    - Automatically sync TRaSH Guides to your Sonarr and Radarr instancesLidarr, Prowlarr, Radarr, Readarr, and Sonarr.
+    - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [Redirecterr](https://github.com/varthe/Redirecterr)
     - Filter and redirect Overseerr/Jellyseerr requests based on requester, keywords, age ratings, and more
 - [Reiverr](https://github.com/aleksilassila/reiverr)
