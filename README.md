@@ -180,7 +180,7 @@ Putting all of your links at your fingertips:
 - [Readarr](https://readarr.com/)
     - Book Manager and Automation (Sonarr for Ebooks)
 - [Recyclarr](https://github.com/recyclarr/recyclarr)
-    - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
+    - Automatically sync TRaSH Guides to your Sonarr and Radarr instancesLidarr, Prowlarr, Radarr, Readarr, and Sonarr.
 - [Redirecterr](https://github.com/varthe/Redirecterr)
     - Filter and redirect Overseerr/Jellyseerr requests based on requester, keywords, age ratings, and more
 - [Reiverr](https://github.com/aleksilassila/reiverr)
@@ -191,6 +191,8 @@ Putting all of your links at your fingertips:
     - Self-hosted webscraper
 - [Searcharr](https://github.com/toddrob99/searcharr) 🤖
     - Sonarr & Radarr & Readarr Telegram Bot
+- [Servarr](https://wiki.servarr.com/) ✏️
+    - Wiki for the main lineup (Lidarr, Prowlarr, Radarr, Readarr, Sonarr)
 - [Sick-Beard](https://github.com/midgetspy/Sick-Beard) ❌
     - PVR & episode guide that downloads and manages all your TV shows
 - [SickGear](https://github.com/SickGear/SickGear)
