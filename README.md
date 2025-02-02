@@ -1,9 +1,33 @@
-# Arrstack
+# ArrSuite
 
 An updated list of \*arrstack and companion projects. This list is a mixture of current and past projects, with ones that are defunct or not currently in development included in case someone wasn't aware of it and might want to take the project on/fork it into something new.
 
-🤖 - Bot  
+🤖 - Bot
 ❌ - Unmaintained
+✏️ - Guide/Config
+
+# Dashboards
+
+Putting all of your links at your fingertips:
+
+- [astroluma](https://getastroluma.com)
+- [dashy](https://dashy.to/)
+- [docker-php-startpage](https://github.com/loganmarchione/docker-php-startpage)
+- [fenrus](https://github.com/revenz/Fenrus)
+- [flame](https://github.com/pawelmalak/flame)
+- [glance](https://github.com/glanceapp/glance)
+- [heimdall](https://github.com/linuxserver/Heimdall)
+- [Homarr](https://homarr.dev/)
+- [Homepage](https://gethomepage.dev)
+- [homer](https://github.com/bastienwirtz/homer)
+- [honey](https://github.com/dani3l0/honey)
+- [miniboard](https://github.com/aceberg/miniboard)
+- [Organizr](https://github.com/causefx/Organizr)
+- [starbase 80](https://notclickable-jordan.github.io/starbase-80/)
+
+***
+
+# Arrs
 
 - [Arr-Scripts](https://github.com/RandomNinjaAtk/arr-scripts)
     - Extended Container Scripts. Designed to be easily implemented/added to [Linuxserver.io](http://Linuxserver.io) containers
@@ -71,8 +95,6 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
     - Flemmarr makes it easy to automate configuration for your -arr apps
 - [Flexget](https://github.com/Flexget/Flexget)
     - FlexGet is a multipurpose automation tool for all of your media
-- [Homarr](https://homarr.dev/)
-    - A sleek, modern dashboard that puts all of your apps and services at your fingertips
 - [Invitarr](https://github.com/faizyy01/Invitarr) 🤖
     - Plex Discord Bot to invite a user to a plex server
 - [Jackett](https://github.com/Jackett/Jackett)
@@ -129,8 +151,6 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
     - Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves
 - [Omegabrr](https://github.com/autobrr/omegabrr)
     - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters
-- [Organizr](https://github.com/causefx/Organizr)
-    - HTPC/Homelab Services Organizer - Written in PHP
 - [Overseerr](https://overseerr.dev/)
     - Overseerr is a request management and media discovery tool built to work with your existing Plex ecosystem
 - [Plexarr](https://github.com/l3uddz/plexarr) ❌
@@ -209,7 +229,7 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
     - Script to add new series & movies to Sonarr/Radarr based on Trakt lists
 - [Transcoderr](https://github.com/drkno/transcoderr)
     - tdarr if it behaved more like a GPU pipeline
-- [TRaSH-Guides](https://trash-guides.info/)
+- [TRaSH-Guides](https://trash-guides.info/) ✏️
     - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it
 - [Toolbarr](https://github.com/Notifiarr/toolbarr)
     - Starr Toolbarr
