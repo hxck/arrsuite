@@ -71,6 +71,8 @@ Putting all of your links at your fingertips:
     - A Python script for checking your Radarr database and setting up collection lists
 - [Crossarr](https://github.com/TMD20/crossarr)
     - Cross Seed via Arr Programs
+- [Dasharr](https://github.com/FrenchGithubUser/Dasharr)
+    - Dashboard of your indexers' usage
 - [Decluttarr](https://github.com/ManiMatter/decluttarr)
     - Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads when needed
 - [Defaulterr](https://github.com/varthe/Defaulterr)
@@ -125,6 +127,8 @@ Putting all of your links at your fingertips:
     - “Logarr” is a self-hosted PHP web app that consolidates, formats, and displays log and text files for easy analysis and monitoring
 - [Maintainerr](https://github.com/jorenn92/Maintainerr)
     - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
+- [Managarr](https://github.com/Dark-Alex-17/managarr)
+    - A TUI and CLI for managing *arr servers
 - [Mediarr](https://github.com/l3uddz/mediarr)
     - CLI tool to add new media to pvr's from the arr suite
 - [MediathekArr](https://github.com/PCJones/MediathekArr/)
