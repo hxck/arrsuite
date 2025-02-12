@@ -239,6 +239,8 @@ Putting all of your links at your fingertips:
     - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it
 - [Toolbarr](https://github.com/Notifiarr/toolbarr)
     - Starr Toolbarr
+- [Tunarr](https://github.com/chrisbenincasa/tunarr)
+    - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin
 - [UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr)
     - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages (primarily German at the moment
 - [Unpackerr](https://github.com/Unpackerr/unpackerr)
