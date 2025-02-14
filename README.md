@@ -201,6 +201,10 @@ Putting all of your links at your fingertips:
     - PVR & episode guide that downloads and manages all your TV shows
 - [SickGear](https://github.com/SickGear/SickGear)
     - The most reliable/stable TV fork of Sick-Beard to fully automate TV enjoyment with innovation
+- [Shoutrrr](https://containrrr.dev/shoutrrr/v0.8/)
+    - Shoutrrr is a powerful CLI-based notification router that supports multiple services like Slack, Discord, Email, and more
+- [Shoutrrr-Web](https://github.com/wlad031/shoutrrr-web)
+    - A web interface for Shoutrrr
 - [Sonarr](https://sonarr.tv/)
     - Smart PVR for newsgroup and bittorrent users
 - [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker)
