@@ -155,6 +155,8 @@ Putting all of your links at your fingertips:
     - Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves
 - [Omegabrr](https://github.com/autobrr/omegabrr)
     - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters
+- [Owinenatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/Owinenatorr)
+    - Owinenatorr is a Powershell script that kicks off rename operations programatically in Radarr and Sonarr after changing the naming scheme for movies or series
 - [Overseerr](https://overseerr.dev/)
     - Overseerr is a request management and media discovery tool built to work with your existing Plex ecosystem
 - [Plexarr](https://github.com/l3uddz/plexarr) ❌
@@ -189,6 +191,8 @@ Putting all of your links at your fingertips:
     - Filter and redirect Overseerr/Jellyseerr requests based on requester, keywords, age ratings, and more
 - [Reiverr](https://github.com/aleksilassila/reiverr)
     - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
+- [Retraktarr](https://github.com/zakkarry/reTraktarr)
+    - retraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series
 - [Requestrr](https://github.com/darkalfx/requestrr) 🤖
     - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat
 - [Scraperr](https://github.com/jaypyles/Scraperr)
@@ -249,6 +253,8 @@ Putting all of your links at your fingertips:
     - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages (primarily German at the moment
 - [Unpackerr](https://github.com/Unpackerr/unpackerr)
     - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
+- [Upgradinatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/Upgradinatorr)
+    - Upgradinatorr is a Powershell script to automate the manual searching of N items in your Radarr, Sonarr or Lidarr media library that are not tagged with a Upgradinatorr configured tag
 - [Wantarr](https://github.com/l3uddz/wantarr) ❌
     - CLI Tool to find wanted media for the \*arr suite
 - [Watcharr](https://watcharr.app/)
