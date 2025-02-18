@@ -118,7 +118,7 @@ There's a ton of clients for downloading, these are the most popular.
     - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [Servarr](https://wiki.servarr.com/) 
     - Wiki for the main lineup (Lidarr, Prowlarr, Radarr, Readarr, Sonarr)
-- [TRaSH-Guides](https://trash-guides.info/) ✏️
+- [TRaSH-Guides](https://trash-guides.info/)
     - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it
 
 
