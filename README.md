@@ -195,6 +195,8 @@ Putting all of your links at your fingertips:
     - retraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series
 - [Requestrr](https://github.com/darkalfx/requestrr) 🤖
     - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat
+- [Scraparr](https://github.com/thecfu/scraparr)
+    - Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [Scraperr](https://github.com/jaypyles/Scraperr)
     - Self-hosted webscraper
 - [Searcharr](https://github.com/toddrob99/searcharr) 🤖
