@@ -13,6 +13,7 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
 - [Notifications](#notifications)
 - [Requests](#requests)
 - [Search Aggregators](#search-aggregators)
+- [Other Companions](#other-companions]
 
 &nbsp;
 ***
