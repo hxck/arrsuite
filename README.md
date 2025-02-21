@@ -9,6 +9,7 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
 - [Download](#download)
 - [Guides](#guides)
 - [Library Management](#library-management)
+- [Mobile Apps](#mobile-apps)
 - [Monitoring and Stats](#monitoring-and-stats)
 - [Notifications](#notifications)
 - [Requests](#requests)
@@ -145,6 +146,17 @@ There's a ton of clients for downloading, these are the most popular.
     - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [Unpackerr](https://github.com/Unpackerr/unpackerr)
     - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
+ 
+
+&nbsp;
+# Mobile Apps
+
+- [LunaSea](https://github.com/JagandeepBrar/LunaSea)
+    - LunaSea is a fully featured, open source self-hosted controller focused on giving you a seamless experience between all of your self-hosted media software remotely on your devices
+- [nzb360](https://nzb360.com/)
+    - SABnzb, NZBget, Torrents, Sonarr, Radarr, and more. Manage all from one app that focuses on amazing UI/UX
+- [Ruddarr](https://github.com/ruddarr/app)
+    - A native iOS companion app for Radarr and Sonarr instances
  
 
 &nbsp;
