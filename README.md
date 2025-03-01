@@ -305,6 +305,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Movie discovery tool that provides recommendations based on selected Radarr movies, using TMDB
 - [Radarr-striptracks](https://github.com/linuxserver/docker-mods/tree/radarr-striptracks)
     - A Docker Mod for the [LinuxServer.io](http://LinuxServer.io) Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams
+- [Recommendarr](https://github.com/fingerthief/recommendarr)
+    - An AI driven recommendation system based on Radarr and Sonarr library information
 - [Reiverr](https://github.com/aleksilassila/reiverr)
     - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [Scraperr](https://github.com/jaypyles/Scraperr)
