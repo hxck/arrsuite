@@ -66,8 +66,6 @@ Putting all of your links at your fingertips:
     - A comprehensive Docker-based media server stack with automated management, monitoring, and organization
 - [Cloud Seeder](https://ipv6.rs/cloudseeder)
     - Installer/updater for Prowlarr, Lidarr, Radarr, Readarr, Sonarr and Whisparr. Also links and connects qBittorrent
-- [Deployarr](https://github.com/anandslab/deployarr)
-    - Deployarr automates Homelab setup using Docker and Docker Compose
 - [Ezarr](https://github.com/Luctia/ezarr)
     - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
 - [Flemmarr](https://github.com/Flemmarr/Flemmarr)
@@ -356,7 +354,9 @@ There's a ton of clients for downloading, these are the most popular.
     - The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [Bonarr](https://github.com/bonarr/Bonarr) 
     - Bonarr is an independent fork of Radarr reworked for automatically downloading adult movies via Usenet and BitTorrent
--  [Listarr](https://github.com/christophercatt/listarr) 
+- [Deployarr](https://github.com/anandslab/deployarr)
+    - Deployarr automates Homelab setup using Docker and Docker Compose
+- [Listarr](https://github.com/christophercatt/listarr) 
     - A [Trakt.tv](http://Trakt.tv) list -> Sonarr implementation, emulating the list functionality found within Radarr
 - [Listrr](https://listrr.pro/)
     - The best tool to create personalized lists for shows and movies with an absurd amount of filters available, for your ultimate PLEX server setup!
