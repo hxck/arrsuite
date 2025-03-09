@@ -259,6 +259,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Excludarr manages your libraries in Radarr/Sonarr. It keeps track of your library and checks if your movies and series are also available on a configured streaming provider
 - [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
     - Proxy server to bypass Cloudflare protection
+- [iPlayarr](https://github.com/Nikorag/iplayarr)
+    - Playarr is a companion tool for Sonarr and Radarr, making it easy to integrate get_iplayer for searching and downloading iPlayer content directly
 - [Just A Bunch Of Starr Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts)
     - PowerShell scripts for Starr apps
 - [Kapowarr](https://casvt.github.io/Kapowarr/)
