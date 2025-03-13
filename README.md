@@ -289,6 +289,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters
 - [Owinenatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/Owinenatorr)
     - Owinenatorr is a Powershell script that kicks off rename operations programatically in Radarr and Sonarr after changing the naming scheme for movies or series
+- [Plundrio](https://github.com/elsbrock/plundrio)
+    - A put.io download client for *arr implementing the transmission RPC interface.
 - [Posterizarr](https://github.com/fscorrupt/Posterizarr)
     - Automated poster maker for Plex
 - [Posterr](https://github.com/petersem/posterr)
