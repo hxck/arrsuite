@@ -245,6 +245,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Retrieve missing Readarr books from Library Genesis
 - [Broadcastarr](https://github.com/Billos/Broadcastarr)
     - Stream web content through your Jellyfin instance
+- [Byparr](https://github.com/ThePhaseless/Byparr)
+    - An alternative to FlareSolverr as a drop-in replacement, built with seleniumbase and FastAPI
 - [Collectarr](https://github.com/RiffSphere/Collectarr)
     - A Python script for checking your Radarr database and setting up collection lists
 - [Crossarr](https://github.com/TMD20/crossarr)
