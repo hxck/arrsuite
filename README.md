@@ -25,7 +25,7 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
 Putting all of your links at your fingertips:
 
 - [Astroluma](https://getastroluma.com)
-- [Dashy](https://dashy.to/)
+- [Dashy](https://dashy.to/) (Unmaintained)
 - [Docker-php-startpage](https://github.com/loganmarchione/docker-php-startpage)
 - [Fenrus](https://github.com/revenz/Fenrus)
 - [Flame](https://github.com/pawelmalak/flame)
