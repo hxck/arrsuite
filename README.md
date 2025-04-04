@@ -81,6 +81,8 @@ Putting all of your links at your fingertips:
     - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr
 - [Butlarr](https://github.com/TrimVis/butlarr) 
     - Telegram bot to interact with various arr services. Created with extensibility in mind
+- [Discarr](https://github.com/Jugbot/discarr)
+    - Discord Bot for Jellyseerr
 - [Doplarr](https://github.com/kiranshila/Doplarr) 
     - An arr request bot for Discord
 - [Invitarr](https://github.com/faizyy01/Invitarr) 
