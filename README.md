@@ -263,6 +263,11 @@ There's a ton of clients for downloading, these are the most popular.
     - Excludarr manages your libraries in Radarr/Sonarr. It keeps track of your library and checks if your movies and series are also available on a configured streaming provider
 - [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
     - Proxy server to bypass Cloudflare protection
+- Huntarr
+    - [Huntarr-Lidarr](https://github.com/plexguide/Huntarr-Lidarr) | A specialized utility that automates discovering missing and upgrading your music collection
+    - [Huntarr-Readarr](https://github.com/plexguide/Huntarr-Readarr) | A specialized utility that automates discovering missing and upgrading your book/reading collection
+    - [Huntarr-Radarr](https://github.com/plexguide/Huntarr-Radarr) | A specialized utility that automates discovering missing and upgrading your movie collection
+    - [Huntarr-Sonarr](https://github.com/plexguide/Huntarr-Sonarr) | A specialized utility that automates discovering missing and upgrading your TV collection
 - [iPlayarr](https://github.com/Nikorag/iplayarr)
     - Playarr is a companion tool for Sonarr and Radarr, making it easy to integrate get_iplayer for searching and downloading iPlayer content directly
 - [Just A Bunch Of Starr Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts)
