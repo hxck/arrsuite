@@ -25,7 +25,6 @@ An updated list of \*arrstack and companion projects. This list is a mixture of 
 Putting all of your links at your fingertips:
 
 - [Astroluma](https://getastroluma.com)
-- [Dashy](https://dashy.to/) (Unmaintained)
 - [Docker-php-startpage](https://github.com/loganmarchione/docker-php-startpage)
 - [Fenrus](https://github.com/revenz/Fenrus)
 - [Flame](https://github.com/pawelmalak/flame)
@@ -151,8 +150,6 @@ There's a ton of clients for downloading, these are the most popular.
 &nbsp;
 # Mobile Apps
 
-- [LunaSea](https://github.com/JagandeepBrar/LunaSea)
-    - LunaSea is a fully featured, open source self-hosted controller focused on giving you a seamless experience between all of your self-hosted media software remotely on your devices
 - [nzb360](https://nzb360.com/)
     - SABnzb, NZBget, Torrents, Sonarr, Radarr, and more. Manage all from one app that focuses on amazing UI/UX
 - [Ruddarr](https://github.com/ruddarr/app)
@@ -367,6 +364,8 @@ There's a ton of clients for downloading, these are the most popular.
     - The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [Bonarr](https://github.com/bonarr/Bonarr) 
     - Bonarr is an independent fork of Radarr reworked for automatically downloading adult movies via Usenet and BitTorrent
+- [Dashy](https://dashy.to/)
+    - Selfhosted homepage
 - [Deployarr](https://github.com/anandslab/deployarr)
     - Deployarr automates Homelab setup using Docker and Docker Compose
 - [Listarr](https://github.com/christophercatt/listarr) 
@@ -375,6 +374,8 @@ There's a ton of clients for downloading, these are the most popular.
     - The best tool to create personalized lists for shows and movies with an absurd amount of filters available, for your ultimate PLEX server setup!
 - [Logarr](https://github.com/Monitorr/logarr) 
     - “Logarr” is a self-hosted PHP web app that consolidates, formats, and displays log and text files for easy analysis and monitoring
+- [LunaSea](https://github.com/JagandeepBrar/LunaSea)
+    - LunaSea is a fully featured, open source self-hosted controller focused on giving you a seamless experience between all of your self-hosted media software remotely on your devices
 - [Cardigann](https://github.com/cardigann/cardigann) 
     - A proxy server for adding new indexers to Sonarr, SickRage and other media managers
 - [Comandarr](https://github.com/Commandarr/Commandarr) 
