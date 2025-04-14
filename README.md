@@ -246,6 +246,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Stream web content through your Jellyfin instance
 - [Byparr](https://github.com/ThePhaseless/Byparr)
     - An alternative to FlareSolverr as a drop-in replacement, built with seleniumbase and FastAPI
+- [Calendarr](https://github.com/jordanlambrecht/calendarr)
+    - A docker container that will publish Sonarr and Radarr's release calendar to Discord + Slack on a weekly/daily basis
 - [Collectarr](https://github.com/RiffSphere/Collectarr)
     - A Python script for checking your Radarr database and setting up collection lists
 - [Crossarr](https://github.com/TMD20/crossarr)
@@ -297,6 +299,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Owinenatorr is a Powershell script that kicks off rename operations programatically in Radarr and Sonarr after changing the naming scheme for movies or series
 - [Plundrio](https://github.com/elsbrock/plundrio)
     - A put.io download client for *arr implementing the transmission RPC interface.
+- [Posteria](https://github.com/jeremehancock/Posteria)
+    - A Media Poster Managment App
 - [Posterizarr](https://github.com/fscorrupt/Posterizarr)
     - Automated poster maker for Plex
 - [Posterr](https://github.com/petersem/posterr)
