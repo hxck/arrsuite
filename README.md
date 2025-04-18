@@ -347,8 +347,6 @@ There's a ton of clients for downloading, these are the most popular.
     - A self hosted manager for movie and tv show trailers
 - [Transcoderr](https://github.com/drkno/transcoderr)
     - tdarr if it behaved more like a GPU pipeline
-- [Tunarr](https://github.com/chrisbenincasa/tunarr)
-    - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby
 - [UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr)
     - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages (primarily German at the moment
 - [Upgradinatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/Upgradinatorr)
