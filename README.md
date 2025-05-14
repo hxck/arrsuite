@@ -240,6 +240,8 @@ There's a ton of clients for downloading, these are the most popular.
 
 - [Arr-Scripts](https://github.com/RandomNinjaAtk/arr-scripts)
     - Extended Container Scripts. Designed to be easily implemented/added to [Linuxserver.io](http://Linuxserver.io) containers
+- [Autopulse](https://github.com/dan-online/autopulse)
+    - Automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [BookBounty](https://github.com/TheWicklowWolf/BookBounty)
     - Retrieve missing Readarr books from Library Genesis
 - [Broadcastarr](https://github.com/Billos/Broadcastarr)
@@ -262,11 +264,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Excludarr manages your libraries in Radarr/Sonarr. It keeps track of your library and checks if your movies and series are also available on a configured streaming provider
 - [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
     - Proxy server to bypass Cloudflare protection
-- Huntarr
-    - [Huntarr-Lidarr](https://github.com/plexguide/Huntarr-Lidarr) | A specialized utility that automates discovering missing and upgrading your music collection
-    - [Huntarr-Readarr](https://github.com/plexguide/Huntarr-Readarr) | A specialized utility that automates discovering missing and upgrading your book/reading collection
-    - [Huntarr-Radarr](https://github.com/plexguide/Huntarr-Radarr) | A specialized utility that automates discovering missing and upgrading your movie collection
-    - [Huntarr-Sonarr](https://github.com/plexguide/Huntarr-Sonarr) | A specialized utility that automates discovering missing and upgrading your TV collection
+- [Huntarr](http://github.com/plexguide/Huntarr.io)
+    - A specialized utility that automates discovering missing and upgrading your media collection
 - [iPlayarr](https://github.com/Nikorag/iplayarr)
     - Playarr is a companion tool for Sonarr and Radarr, making it easy to integrate get_iplayer for searching and downloading iPlayer content directly
 - [Just A Bunch Of Starr Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts)
@@ -293,8 +292,6 @@ There's a ton of clients for downloading, these are the most popular.
     - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients
 - [OCDarr](https://github.com/Vansmak/OCDarr)
     - Automates sending and deleting episodes or seasons to sonarr one at a time as played
-- [Omegabrr](https://github.com/autobrr/omegabrr)
-    - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters
 - [Owinenatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/Owinenatorr)
     - Owinenatorr is a Powershell script that kicks off rename operations programatically in Radarr and Sonarr after changing the naming scheme for movies or series
 - [Plundrio](https://github.com/elsbrock/plundrio)
@@ -317,6 +314,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Movie discovery tool that provides recommendations based on selected Radarr movies, using TMDB
 - [Radarr-striptracks](https://github.com/linuxserver/docker-mods/tree/radarr-striptracks)
     - A Docker Mod for the [LinuxServer.io](http://LinuxServer.io) Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams
+- [Rreading Glasses](https://github.com/blampe/rreading-glasses)
+    - A drop-in replacement for Readarr's metadata service
 - [Recommendarr](https://github.com/fingerthief/recommendarr)
     - An AI driven recommendation system based on Radarr and Sonarr library information
 - [Reiverr](https://github.com/aleksilassila/reiverr)
