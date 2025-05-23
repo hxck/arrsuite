@@ -320,6 +320,8 @@ There's a ton of clients for downloading, these are the most popular.
     - An AI driven recommendation system based on Radarr and Sonarr library information
 - [Reiverr](https://github.com/aleksilassila/reiverr)
     - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
+- [Removarr](https://github.com/Thomas-Philippot/removarr)
+    - Vote for media to be removed from Plex to save disk space
 - [Scraperr](https://github.com/jaypyles/Scraperr)
     - Self-hosted webscraper
 - [SickGear](https://github.com/SickGear/SickGear)
