@@ -133,8 +133,8 @@ There's a ton of clients for downloading, these are the most popular.
     - A small utility tasked to automatically clean radarr and sonarr files over time
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr)
     - A simple UI to help find and delete duplicate and sample files from your Plex server
-- [Cleanuperr](https://github.com/flmorg/cleanuperr)
-    - Cleanuperr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent
+- [Cleanuparr](https://github.com/Cleanuparr/Cleanuparr)
+    - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent
 - [Decluttarr](https://github.com/ManiMatter/decluttarr)
     - Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads when needed
 - [Deleterr](https://github.com/rfsbraz/deleterr)
@@ -290,6 +290,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Midarr, the minimal lightweight media server
 - [Mylar3](https://github.com/mylar3/mylar3)
     - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients
+- [Nixarr](https://github.com/rasmus-kirk/nixarr)
+    - Nixarr is a Nixos module that helps setup and manage a media server stack natively in Nixos
 - [OCDarr](https://github.com/Vansmak/OCDarr)
     - Automates sending and deleting episodes or seasons to sonarr one at a time as played
 - [Owinenatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/Owinenatorr)
@@ -322,6 +324,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [Removarr](https://github.com/Thomas-Philippot/removarr)
     - Vote for media to be removed from Plex to save disk space
+- [Scraparr](https://github.com/thecfu/scraparr)
+    - Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [Scraperr](https://github.com/jaypyles/Scraperr)
     - Self-hosted webscraper
 - [SickGear](https://github.com/SickGear/SickGear)
