@@ -191,6 +191,8 @@ There's a ton of clients for downloading, these are the most popular.
 &nbsp;
 # Playlists
 
+- [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
+    - Dispatcharr is an open-source powerhouse for managing IPTV streams and EPG data with elegance and control
 - [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV)
     - Stream custom live channels using your own media
 - [Kometa](https://kometa.wiki/en/latest/)
