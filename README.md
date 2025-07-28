@@ -282,6 +282,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Lingarr is an application that utilizes LibreTranslate to translate subtitle files to a user-specified target language, providing a locally hosted solution for subtitle localization
 - [Managarr](https://github.com/Dark-Alex-17/managarr)
     - A TUI and CLI for managing *arr servers
+- [MediaManager](https://github.com/maxdorninger/MediaManager)
+    - A modern selfhosted media management system for your media library (Replaces Sonarr, Radarr, Overseer, and Jellyseer)
 - [Mediarr](https://github.com/l3uddz/mediarr)
     - CLI tool to add new media to pvr's from the arr suite
 - [MediathekArr](https://github.com/PCJones/MediathekArr/)
