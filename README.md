@@ -191,6 +191,8 @@ There's a ton of clients for downloading, these are the most popular.
 &nbsp;
 # Playlists
 
+- [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV)
+    - Stream custom live channels using your own media
 - [Kometa](https://kometa.wiki/en/latest/)
     - Python script to update metadata information for items in plex as well as automatically build collections and playlists
 - [Listrr](https://listrr.pro/)
