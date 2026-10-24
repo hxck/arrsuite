@@ -145,8 +145,8 @@ There's a ton of clients for downloading, these are the most popular.
     - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [Unpackerr](https://github.com/Unpackerr/unpackerr)
     - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
--  [Verifyarr](https://github.com/camezaro-intc/verifyarr)
-    -  Automated media verification and mockbuster remediation companion for Radarr and Sonarr using container runtime delta, stream sanity, and visual freeze analysis.
+- [Verifyarr](https://github.com/camezaro-intc/Verifyarr)
+    - Automated media integrity & mockbuster guard for Radarr and Sonarr. Intercepts fake releases (archives, executables, malware) before download, and inspects video files for runtime mismatches, stream corruption, and frozen frames.
  
 
 &nbsp;
